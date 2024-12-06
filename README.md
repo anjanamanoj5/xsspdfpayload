@@ -1,3 +1,3 @@
 # xsspdfpayload
 
-#For educational purpose.
+For educational purpose.
